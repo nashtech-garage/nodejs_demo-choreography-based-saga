@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_demo-choreography-based-saga",
+  "version": "1.0.0",
+  "description": "Demo how to build orchestrator based sage in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.5"
+  }
+}
